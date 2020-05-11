@@ -1,0 +1,41 @@
+body{
+    background-image: url('https://i.pinimg.com/236x/98/3c/9c/983c9cefcbccbd377a6f35471796ec42--rolo-change-.jpg');
+    background-size:
+      auto 50vh;
+    font-family:
+      cursive;
+    height:100vh;
+      
+}
+  
+.menu{
+    background-color: gray;
+}
+.menu ul{
+    display: flex;
+    justify-content: space-around;
+}
+.menu li{
+    list-style: none;
+}
+  
+a{
+    color: white;
+    text-decoration: none;
+}
+a:hover{
+    color: black;
+    text-decoration: underline;
+}
+  
+.site-subtitle,
+.site-title{
+    color: #4F4F4F;
+    text-align: center;
+}
+  
+.site-subtitle{
+    color: black;
+    font-style: italic;
+}
+  
